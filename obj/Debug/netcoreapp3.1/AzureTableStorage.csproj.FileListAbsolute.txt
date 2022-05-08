@@ -1,0 +1,9 @@
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\bin\Debug\netcoreapp3.1\AzureTableStorage.deps.json
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\bin\Debug\netcoreapp3.1\AzureTableStorage.dll
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\bin\Debug\netcoreapp3.1\AzureTableStorage.pdb
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\obj\Debug\netcoreapp3.1\AzureTableStorage.csprojAssemblyReference.cache
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\obj\Debug\netcoreapp3.1\AzureTableStorage.AssemblyInfoInputs.cache
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\obj\Debug\netcoreapp3.1\AzureTableStorage.AssemblyInfo.cs
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\obj\Debug\netcoreapp3.1\AzureTableStorage.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\obj\Debug\netcoreapp3.1\AzureTableStorage.dll
+E:\CAN\repos-D\LearnAzureFunctions\AzureTableStorage\obj\Debug\netcoreapp3.1\AzureTableStorage.pdb
